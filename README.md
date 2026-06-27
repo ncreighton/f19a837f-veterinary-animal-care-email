@@ -1,2 +1,42 @@
-# f19a837f-veterinary-animal-care-email
-Stop losing clients to forgotten follow-ups and generic emails. Build professional, automated email sequences directly from your browser—no design skills or complex software needed.  This Chrome extension replaces email anxiety with a drag-and-drop sequence builder and a library of veterinary-specific templates. It saves hours every week, ensures c
+# Veterinary & Animal Care Email Template and Sequence Builder Chrome Extension
+
+> Extension for Veterinary
+
+Stop losing clients to forgotten follow-ups and generic emails. Build professional, automated email sequences directly from your browser—no design skills or complex software needed.
+
+This Chrome extension replaces email anxiety with a drag-and-drop sequence builder and a library of veterinary-specific templates.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/cNi4gz6mXf6QcVW33mcZn2l)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
