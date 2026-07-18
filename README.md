@@ -24,6 +24,8 @@ This Chrome extension replaces email anxiety with a drag-and-drop sequence build
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
+**[Buy on Gumroad](https://lunarautomata.gumroad.com/l/cniqzs)** — Instant download, lifetime updates
+
 **[Buy Now (Stripe)](https://buy.stripe.com/cNi4gz6mXf6QcVW33mcZn2l)** — Secure checkout
 
 ## Installation
@@ -35,6 +37,7 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://lunarautomata.gumroad.com/l/cniqzs)
 
 ## License
 
